@@ -92,7 +92,8 @@ Após vai aparacer os seguintes comandos:
  git add . 
  ---
  Adicionar o seu repositório. 
- ou 
+
+ ---
  git add README.md  
  ---
  Adicionar o seu repositório ao README
