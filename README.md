@@ -3,6 +3,8 @@ Um pouco sobre Git e GitHub
 
 ![kMCMR25Vh](https://github.com/Nandabdev/Git-Github/assets/132234392/48107e70-1d6b-4651-80a5-9f497b440678)
 
+(Créditos img: Via Google)
+
 # Um pouco sobre Git e GitHub: 
 
 
@@ -121,3 +123,9 @@ Após vai aparacer os seguintes comandos:
 ## Conclusão
 
 - Estes são alguns dos comandos e ações mais comuns no Git e no GitHub. Existem muitos outros comandos e recursos disponíveis, dependendo das suas necessidades específicas de desenvolvimento e colaboração. Certifique-se de estar familiarizado com a documentação do Git e do GitHub para explorar todos os recursos.
+
+  - documentação:
+ 
+  https://git-scm.com/docs/git/pt_BR
+  
+  https://docs.github.com/pt
